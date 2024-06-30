@@ -25,7 +25,7 @@
 <p  align="left">
   <code><img width="5%" title="Pycharm" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/pycharm.png></code>
   <code><img width="5%" title="Python" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/python.svg></code>
-  <code><img width="5%" title="Pytest" src=https://github.com/Firex18ru/pictures/tree/main/icon/Pytest.png></code>
+  Markdown:![Pytest](https://github.com/Firex18ru/pictures/blob/main/icon/Pytest.png "Pytest```
   <code><img width="5%" title="Selene" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/selene.png></code>
   <code><img width="5%" title="Selenium" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/webdriver4.png></code>
   <code><img width="5%" title="Requests" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/request.png></code>
