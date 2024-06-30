@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on 
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -22,25 +22,16 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<p  align="left">
+  <code><img width="5%" title="Pycharm" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/pycharm.png></code>
+  <code><img width="5%" title="Python" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/python.svg></code>
+  <code><img width="5%" title="Pytest" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/pytest.png></code>
+  <code><img width="5%" title="Selene" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/selene.png></code>
+  <code><img width="5%" title="Selenium" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/webdriver4.png></code>
+  <code><img width="5%" title="Requests" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/request.png></code>
+  <code><img width="5%" title="Allure Report" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/Allure_new.png></code>
+  <code><img width="5%" title="Jenkins" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/Jenkins.svg></code>
+</p>
 
 
 ## Connect with me  
