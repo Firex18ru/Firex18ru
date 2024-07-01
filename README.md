@@ -6,16 +6,16 @@
 
   
 
-- 🔭 I’m currently working on 
+#- 🔭 I’m currently working on 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+#- 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+#- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+#- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
