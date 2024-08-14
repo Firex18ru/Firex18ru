@@ -34,7 +34,7 @@
 ### :mortar_board: Образование и курсы
 
 <table width="100%" border='0'>
-<tr><td width="10%" valign="bottom"><img src="images/icon/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
-<tr><td width="10%" valign="bottom"><img src="images/icon/stepik_logo.png"></td><td valign="middle">Stepik</br>поколение Python</br><a target="_blankhttps://stepik.org/cert/1741708>Сертификат</a></td></tr>
+<tr><td width="10%" valign="bottom"><img src="images/icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
+<tr><td width="10%" valign="bottom"><img src="images/icons/stepik_logo.png"></td><td valign="middle">Stepik</br>поколение Python</br><a target="_blankhttps://stepik.org/cert/1741708>Сертификат</a></td></tr>
 </table>
 
