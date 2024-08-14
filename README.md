@@ -3,7 +3,7 @@
 
 ## My Skill Set  
 <p  align="left">
-  <code><img width="5%" title="Pycharm" src=https://github.com/Firex18ru/icons/pycharm.svg></code>
+  <code><img width="5%" title="Pycharm" src="https://github.com/Firex18ru/icons/pycharm.svg"></code>
   <code><img width="5%" title="Python" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/python.svg></code>
   markdown ![Pytest](https://github.com/Firex18ru/pictures/blob/main/icon/Pytest.png "Pytest
   <code><img width="5%" title="Selene" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/selene.png></code>
