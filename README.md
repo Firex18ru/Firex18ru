@@ -1,7 +1,19 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+### 👋 Привет !
 
-## My Skill Set  
+Меня зовут Иван</br>Я начинающий специалист в сфере тестирования, нахожусь в поиске работы, на которой смогу эффективно
+применять и развивать свои навыки в ручном и автоматизированном тестировании.
+
+---
+
+## Контакты
+
+- Email: Firex1@yandex.ru
+- Telegram: @Ivan_A_Yakimenko
+
+---
+
+### My Skill Set
+
 <p  align="left">
   <code><img width="5%" title="Pycharm" src="images/icons/pycharm.svg"></code>
   <code><img width="5%" title="Python" src="images/icons/python-original.svg"></code>
@@ -17,27 +29,20 @@
   <code><img width="5%" title="Telegram" src="images/icons/tg.png"></code>
 </p>
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Firex18ru" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### :mortar_board: Образование и курсы
 
-<br/>  
+<table width="100%" border='0'>
+<tr><td width="10%" valign="bottom"><img src="images/icon/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
+<tr><td width="10%" valign="bottom"><img src="images/icon/stepik_logo.png"></td><td valign="middle">Stepik</br>поколение Python</br><a target="_blankhttps://stepik.org/cert/1741708>Сертификат</a></td></tr>
+</table>
 
+## Recent Blog Posts
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Firex18ru&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your
+readme file.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -49,7 +54,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Firex18ru&&style=flat-square" align="center" />
 </div>  
-  
+
 
 <br/>  
 
