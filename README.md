@@ -7,6 +7,7 @@
   <code><img width="5%" title="Python" src="images/icons/python-original.svg"></code>
   <code><img width="5%" title="Pytest" src="images/icons/pytest-original.svg"></code>
   <code><img width="5%" title="Selene" src="images/icons/selene.svg"></code>
+  <code><img width="5%" title="GitHub" src="images/icons/github.svg"></code>
   <code><img width="5%" title="Requests" src="images/icons/request.png"></code>
   <code><img width="5%" title="Allure Report" src="images/icons/Allure_Report.png"></code>
   <code><img width="5%" title="Jenkins" src="images/icons/jenkins.svg"></code>
