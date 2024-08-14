@@ -3,14 +3,17 @@
 
 ## My Skill Set  
 <p  align="left">
-  <code><img width="5%" title="Pycharm" src="icons/pycharm.svg"></code>
-  <code><img width="5%" title="Python" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/python.svg></code>
-  markdown ![Pytest](https://github.com/Firex18ru/pictures/blob/main/icon/Pytest.png "Pytest
-  <code><img width="5%" title="Selene" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/selene.png></code>
-  <code><img width="5%" title="Selenium" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/webdriver4.png></code>
-  <code><img width="5%" title="Requests" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/request.png></code>
-  <code><img width="5%" title="Allure Report" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/Allure_new.png></code>
-  <code><img width="5%" title="Jenkins" src=https://github.com/Firex18ru/olgakos/blob/main/images/logo/Jenkins.svg></code>
+  <code><img width="5%" title="Pycharm" src="images/icons/pycharm.svg"></code>
+  <code><img width="5%" title="Python" src=images/icons/python-original.svg"></code>
+  <code><img width="5%" title="Pytest" src=images/icons/Pytest-original.svg"></code>
+  <code><img width="5%" title="Selene" src="images/icons/selene.svg"></code>
+  <code><img width="5%" title="Requests" src="images/icons/request.png"></code>
+  <code><img width="5%" title="Allure Report" src="images/icons/Allure_Report.png"></code>
+  <code><img width="5%" title="Jenkins" src="images/icons/Jenkins.svg"></code>
+  <code><img width="5%" title="AllureTestOps" src="images/icons/AllureTestOps.png"></code>
+  <code><img width="5%" title="Jira" src="images/icons/jira-original.svg"></code>
+  <code><img width="5%" title="Selenoid" src="images/icons/selenoid.png"></code>
+  <code><img width="5%" title="Telegram" src="images/icons/tg.png"></code>
 </p>
 
 
@@ -62,6 +65,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
 
