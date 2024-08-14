@@ -4,12 +4,12 @@
 ## My Skill Set  
 <p  align="left">
   <code><img width="5%" title="Pycharm" src="images/icons/pycharm.svg"></code>
-  <code><img width="5%" title="Python" src=images/icons/python-original.svg"></code>
-  <code><img width="5%" title="Pytest" src=images/icons/Pytest-original.svg"></code>
+  <code><img width="5%" title="Python" src="images/icons/python-original.svg"></code>
+  <code><img width="5%" title="Pytest" src="images/icons/Pytest-original.svg"></code>
   <code><img width="5%" title="Selene" src="images/icons/selene.svg"></code>
   <code><img width="5%" title="Requests" src="images/icons/request.png"></code>
   <code><img width="5%" title="Allure Report" src="images/icons/Allure_Report.png"></code>
-  <code><img width="5%" title="Jenkins" src="images/icons/Jenkins.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/icons/jenkins.svg"></code>
   <code><img width="5%" title="AllureTestOps" src="images/icons/AllureTestOps.png"></code>
   <code><img width="5%" title="Jira" src="images/icons/jira-original.svg"></code>
   <code><img width="5%" title="Selenoid" src="images/icons/selenoid.png"></code>
