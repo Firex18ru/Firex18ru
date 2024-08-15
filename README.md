@@ -38,3 +38,5 @@
 <tr><td width="10%" valign="bottom"><img src="images/icons/stepik_logo.png"></td><td valign="middle">Stepik</br>поколение Python</br><a target="_blankhttps://stepik.org/cert/1741708>Сертификат</a></td></tr>
 </table>
 
+---
+
