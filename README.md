@@ -34,9 +34,12 @@
 ### :mortar_board: Образование и курсы
 
 <table width="100%" border='0'>
-<tr><td width="10%" valign="bottom"><img src="images/icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
-<tr><td width="10%" valign="bottom"><img src="images/icons/stepik_logo.png"></td><td valign="middle">Stepik</br>поколение Python</br><a target="_blankhttps://stepik.org/cert/1741708>Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="images/icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="images/icons/stepik_logo.png"></td><td valign="middle">Stepik</br>поколение Python</br><a target="_blank" href="https://stepik.org/cert/1741708">Сертификат</a></td></tr>
 </table>
 
 ---
 
+### 🚀 Мои проекты по автоматизации тестирования
+
+#### <a target="_blank" href="https://github.com/Firex18ru/IVI_tests_project_ui_and_api">Дипломный проект для автоматизации тестирования web (UI) и API онлайн кинотеатра IvI</a>
